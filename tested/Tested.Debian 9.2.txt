@@ -1,0 +1,24 @@
+     _____
+    [IIIII]
+     )"""(
+    /     \
+   /       \
+   |`-...-'|
+   |PRLevel|
+ _ |`-...-'j    _
+(\)`-.___.(I) _(/)
+  (I)  (/)(I)(\)
+     (I)poisøn Runlevel
+_____________________________________
+
+# Sistema init 		: systemd 
+# Path unit systemd 	: /lib/systemd/system/
+# Path systemd 		: /etc/systemd/system/multi-user.target.wants/
+# Paths detectados	: continua ataque.
+# Binario backdoor	: creado.
+# Archivo unit		: creado en path.
+# Unit enlazado		: /etc/systemd/system/multi-user.target.wants/noip.service
+# backdoor movido	: /usr/bin/noip
+# Set permisos payload	: OK.
+# Exec			: /usr/bin/noip
+# Servicio Troyanizado	: OK.

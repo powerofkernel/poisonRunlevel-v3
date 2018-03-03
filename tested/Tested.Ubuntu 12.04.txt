@@ -1,0 +1,38 @@
+
+     _____
+    [IIIII]
+     )"""(
+    /     \
+   /       \
+   |`-...-'|
+   |PRLevel|
+ _ |`-...-'j    _
+(\)`-.___.(I) _(/)
+  (I)  (/)(I)(\)
+     (I)poisøn Runlevel
+_____________________________________
+
+# Sistema init 		: init 
+# Path scripts sysvinit : /etc/init.d/
+# Path runlevels S	: /etc/rc2.d/
+# Path runlevels S	: /etc/rc3.d/
+# Path runlevels S	: /etc/rc4.d/
+# Path runlevels S	: /etc/rc5.d/
+# Path runlevels K	: /etc/rc0.d/
+# Path runlevels K	: /etc/rc1.d/
+# Path runlevels K	: /etc/rc6.d/
+# Paths detectados	: continua ataque.
+# backdoor movido	: /usr/bin/noip
+# Set permisos payload	: OK.
+# Exec			: /usr/bin/noip
+# Init script based	: LSB.
+# Script creado		: /etc/init.d/noip
+# Set permisos script	: OK.
+# Script enlazado	: /etc/rc2.d/S90noip
+# Script enlazado	: /etc/rc3.d/S91noip
+# Script enlazado	: /etc/rc4.d/S92noip
+# Script enlazado	: /etc/rc5.d/S93noip
+# Script enlazado	: /etc/rc0.d/K90noip
+# Script enlazado	: /etc/rc1.d/K91noip
+# Script enlazado	: /etc/rc6.d/K92noip
+# Servicio Troyanizado	: OK.
